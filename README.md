@@ -1,3 +1,3 @@
 # -HTML-CSS-JavaScript-PRACTICE
 
-Here 
+This space will serve as a repository for my HTML, CSS and JavaScript practice projects as a beginner.
